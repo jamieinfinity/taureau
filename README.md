@@ -1,2 +1,1 @@
-# taureau
-Project Taureau
+# Project Taureau
